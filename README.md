@@ -1,5 +1,5 @@
-# nixie_watch
-Schematics and gerber files for a nixie watch designed by me. It's based on 74HC logic and uses no microcontroller.
+# nixie_clock
+Schematics and gerber files for a nixie clock designed by me. It's based on 74HC logic and uses no microcontroller.
 I do not claim the correctness of the plans or the gerber files.
 
 The clock utilizes 2 already commercially available boards:
